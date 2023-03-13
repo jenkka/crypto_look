@@ -1,16 +1,18 @@
 # crypto_look
+* List view
+* List tile
+* Cargar datos de un JSON / Mapa
 
-A new Flutter project.
+# Lo que me costó más trabajo
+* La conexión entre el main y la homepage
+* El uso correcto de context y cómo pasarlo entre componentes
+* Leer directamente del JSON, hacer parse y encontrar datos anidados 
 
-## Getting Started
+# Lo que aprendí
+* Cómo hacer parse de JSON y utilizarlo en una aplicación de Flutter, así como la sintáxis de Dart
+* Utilizar el list view
+* Usar list tiles para ordenar los resultados
+* Iterar automáticamente utilizando indices
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot de la app
+![Screenshot of Application](https://imgur.com/a/5W2vka7)
