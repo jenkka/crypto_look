@@ -15,4 +15,4 @@
 * Iterar automáticamente utilizando indices
 
 # Screenshot de la app
-![Screenshot of Application](https://imgur.com/a/5W2vka7.png)
+![Screenshot of Application]((https://i.imgur.com/b35NcHt.png))
